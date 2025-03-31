@@ -4,4 +4,9 @@
     <string name="select_language">Please select your preferred language:</string>
     <string name="start_listening">Start Listening</string>
     <string name="error_input">Error recognizing input. Please try again.</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="marathi">मराठी</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ</string>
 </resources>
